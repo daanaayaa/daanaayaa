@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Danaya%20Tongpradit&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=20&descAlignY=58" alt="header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
@@ -15,16 +14,7 @@
 
 ---
 
-## 👩‍💻 เกี่ยวกับฉัน
-
-สวัสดีค่ะ ฉัน **Danaya Tongpradit** (ชื่อเล่น: [ ชื่อเล่น ]) 
-
-- 🏥 ทำงานด้าน IT ที่ **[ ชื่อหน่วยงาน / บริษัท ]** — [ ตำแหน่ง ]
-- 🔨 พัฒนาและดูแลเว็บแอปพลิเคชันแบบ Full-Stack สำหรับระบบงานภายในองค์กรด้านสุขภาพ
-- 🎨 ชอบออกแบบ UI ที่สะอาด ทันสมัย และใช้งานง่าย
-- 🌱 กำลังเรียนรู้: [ เทคโนโลยีที่กำลังศึกษา ]
-- 📍 อยู่ที่: [ จังหวัด / ประเทศ ]
-- ⚡ Fun fact: [ เรื่องสนุกเกี่ยวกับตัวคุณ ]
+## 👩‍💻 About Me !
 
 ---
 
@@ -50,50 +40,48 @@
 
 ---
 
-## 🚀 ผลงานเด่น
-
+## 🚀 Featured Projects
+ 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏢 Intranet Portal</h3>
-      <p>พอร์ทัลสำหรับบุคลากรภายในองค์กร รวมข่าวสาร เอกสาร และบริการต่าง ๆ ไว้ในที่เดียว</p>
-      <sub><b>Stack:</b> [ เทคโนโลยีที่ใช้ ]</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💊 Pharmacy Systems</h3>
-      <p>ระบบติดตามและรายงานข้อมูลสำหรับทีมเภสัชกรรม ช่วยลดงานเอกสารและเพิ่มความแม่นยำ</p>
-      <sub><b>Stack:</b> [ เทคโนโลยีที่ใช้ ]</sub>
+    <td>
+      <h3>🏢 Intranet / Digital Workplace</h3>
+      <p>A staff-facing intranet portal that brings internal services together in one secure workspace, with role-based access for different user groups.</p>
+      <table>
+      <tr><td width="130" valign="top"><b>Frontend</b></td><td><img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/></td></tr>
+      <tr><td width="130" valign="top"><b>Backend</b></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/REST%20API-6366f1?style=flat-square" alt="REST API"/> <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Auth"/> <img src="https://img.shields.io/badge/RBAC-8b5cf6?style=flat-square" alt="RBAC"/> <img src="https://img.shields.io/badge/CORS-475569?style=flat-square" alt="CORS"/></td></tr>
+      <tr><td width="130" valign="top"><b>Database</b></td><td><img src="https://img.shields.io/badge/PostgreSQL%20%28Neon%29-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL (Neon)"/></td></tr>
+      <tr><td width="130" valign="top"><b>Deploy &amp; Tools</b></td><td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/></td></tr>
+      </table>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📊 [ ชื่อโปรเจกต์ ]</h3>
-      <p>[ คำอธิบายสั้น ๆ ]</p>
-      <sub><b>Stack:</b> [ เทคโนโลยีที่ใช้ ]</sub>
+    <td>
+      <h3>💊 ADR Tracking System</h3>
+      <p>A pharmacy system for tracking adverse drug reactions, with severity grading based on CTCAE v6.0, dashboards for visual insights, and CSV export for reporting.</p>
+      <table>
+      <tr><td width="130" valign="top"><b>Frontend</b></td><td><img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></td></tr>
+      <tr><td width="130" valign="top"><b>Backend</b></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/REST%20API-6366f1?style=flat-square" alt="REST API"/> <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Auth"/> <img src="https://img.shields.io/badge/RBAC-8b5cf6?style=flat-square" alt="RBAC"/></td></tr>
+      <tr><td width="130" valign="top"><b>Database</b></td><td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></td></tr>
+      <tr><td width="130" valign="top"><b>Tools</b></td><td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></td></tr>
+      <tr><td width="130" valign="top"><b>Highlights</b></td><td><img src="https://img.shields.io/badge/CTCAE%20v6.0-dc2626?style=flat-square" alt="CTCAE v6.0"/> <img src="https://img.shields.io/badge/Data%20Visualization%20&%20Dashboard-8b5cf6?style=flat-square" alt="Data Visualization & Dashboard"/> <img src="https://img.shields.io/badge/CSV%20Export-16a34a?style=flat-square" alt="CSV Export"/></td></tr>
+      </table>
     </td>
-    <td width="50%" valign="top">
-      <h3>✨ [ ชื่อโปรเจกต์ ]</h3>
-      <p>[ คำอธิบายสั้น ๆ ]</p>
-      <sub><b>Stack:</b> [ เทคโนโลยีที่ใช้ ]</sub>
+  </tr>
+  <tr>
+    <td>
+      <h3>📊 Pharmacy KPI System</h3>
+      <p>A KPI dashboard for pharmacy operations that imports Excel/CSV data, calculates key indicators and processing times, and presents the results as interactive visualizations.</p>
+      <table>
+      <tr><td width="130" valign="top"><b>Frontend</b></td><td><img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></td></tr>
+      <tr><td width="130" valign="top"><b>Backend</b></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/REST%20API-6366f1?style=flat-square" alt="REST API"/> <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Auth"/></td></tr>
+      <tr><td width="130" valign="top"><b>Database</b></td><td><img src="https://img.shields.io/badge/PostgreSQL%20%28Neon%29-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL (Neon)"/></td></tr>
+      <tr><td width="130" valign="top"><b>Deploy &amp; Tools</b></td><td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/></td></tr>
+      <tr><td width="130" valign="top"><b>Highlights</b></td><td><img src="https://img.shields.io/badge/Excel%20/%20CSV%20Import-16a34a?style=flat-square" alt="Excel / CSV Import"/> <img src="https://img.shields.io/badge/Data%20Visualization%20&%20Dashboard-8b5cf6?style=flat-square" alt="Data Visualization & Dashboard"/> <img src="https://img.shields.io/badge/KPI%20Calculation%20&%20Processing%20Time%20Analysis-dc2626?style=flat-square" alt="KPI Calculation & Processing Time Analysis"/></td></tr>
+      </table>
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=daanaayaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&include_all_commits=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanaayaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6" alt="top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daanaayaa&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=f97316&currStreakLabel=8b5cf6" alt="streak" />
-
-</div>
-
 ---
 
 ## 🤝 ติดต่อฉัน
